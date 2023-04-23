@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Clean up unused imgsz (#7771)
