@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fixed RTDETR GFLOPs bug (#7309)
