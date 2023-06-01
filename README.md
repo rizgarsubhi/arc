@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
