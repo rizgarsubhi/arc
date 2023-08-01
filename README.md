@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
