@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Avoid creating -hub dir without processing images (#8334)
