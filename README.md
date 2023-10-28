@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Elaborate Train and Predict mode docs arguments (#8137)
