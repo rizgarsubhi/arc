@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+ultralytics 8.0.229 add model.embed() method (#7098)
