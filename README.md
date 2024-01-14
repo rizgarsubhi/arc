@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
