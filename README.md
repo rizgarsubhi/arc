@@ -1,1 +1,1 @@
-fix resume training
+Model typehints Docker fix (#8306)
