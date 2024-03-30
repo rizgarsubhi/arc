@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix docker.yaml double-quote version bug (#7452)
