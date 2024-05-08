@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Expand Model method type hinting (#8279)
