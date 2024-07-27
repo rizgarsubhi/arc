@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Move Explorer tests to scheduled CI (#8305)
