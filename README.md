@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
