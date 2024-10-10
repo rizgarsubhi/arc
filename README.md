@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add PaddlePaddle Docs Integrations Page (#8858)
