@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Add visuals in guides/distance-calculation.md (#7876)
