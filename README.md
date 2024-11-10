@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Cleanup Docs languages (#7865)
